@@ -1,6 +1,6 @@
 [submodule "project/search-a-star"]
 	path = project/search-a-star
-	url = git://github.com/marcelobns/search-a-star.git
+	url = https://github.com/marcelobns/search-a-star.git
 [submodule "project/text-player"]
 	path = project/text-player
-	url = git://github.com/marcelobns/text-player.git
+	url = https://github.com/marcelobns/text-player.git
