@@ -4,6 +4,6 @@
 [submodule "project/text-player"]
 	path = project/text-player
 	url = https://github.com/marcelobns/text-player.git
-[submodule "cdn/suit-up"]
-	path = cdn/suit-up
+[submodule "project/suit-up"]
+	path = project/suit-up
 	url = https://github.com/marcelobns/suit-up.git
